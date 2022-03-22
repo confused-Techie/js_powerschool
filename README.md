@@ -1,4 +1,4 @@
-# JS-Power
+# JS_PowerSchool
 
 * To Install
 
@@ -12,11 +12,12 @@
 
 ## Options
 
-There are two methods of importing data to JS Power:
+There are two methods of importing data to JS_PowerSchool:
 
 1) The config file:
   - Place a file titled `config.json` in the root of the directory.
   - And follow the `example_config.json` in the root for an example. Leaving out the fields with `_comment` in the field key.
+  - Then to get this config picked up by JS_PowerSchool just leave out any command line options, and it will automatically look in the root folder for the file.
 
 2) The Command Line:
   - Using the command line, you can include all the variable found in the config file.
