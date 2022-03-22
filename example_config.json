@@ -1,0 +1,12 @@
+{
+  "id": "",
+  "id_comment": "The Plugin ID thats installed in PowerSchool",
+  "secret": "",
+  "secret_comment": "The Plugin Secret thats installed in PowerSchool",
+  "url": "",
+  "url_comment": "The URL of your PowerSchool instance, without any paths.",
+  "schoolArray": [ ],
+  "schoolArray_comment": "A numaric array of the school ID's that should be accessed.",
+  "namedSchoolArray": [ ],
+  "namedSchoolArray_comment": "A text array of Human Readable school names, corresponding in order to the School ID's before it."
+}

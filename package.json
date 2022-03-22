@@ -1,0 +1,18 @@
+{
+  "name": "js_powerschool",
+  "version": "1.0.0",
+  "description": "Powerschool Plugin API Consumer to CSV.",
+  "main": "src/cli/index.js",
+  "bin": {
+    "js-power": "bin/js-power.js"
+  },
+  "scripts": {
+    "test": "echo Error No test..."
+  },
+  "author": "anmalis@beardsley.k12.ca.us",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "json2csv": "^5.0.7"
+  }
+}
